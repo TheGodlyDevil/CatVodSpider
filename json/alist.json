@@ -1,6 +1,10 @@
 {
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
+   {
+      "name": "自建",
+      "server": "http://192.168.10.15:5244"
+    },
     {
       "name": "小雅",
       "server": "http://alist.xiaoya.pro"
@@ -40,10 +44,6 @@
           "pass": "18181818"
         }
       ]
-    },
-    {
-      "name": "自建",
-      "server": "http://192.168.10.15:5244"
-    }
+    } 
   ]
 }
