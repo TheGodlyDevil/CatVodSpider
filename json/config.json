@@ -234,7 +234,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/TheGodlyDevil/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "WebDAV",
