@@ -34,6 +34,10 @@
       "server": "https://zi0.cc"
     },
     {
+      "name": "测试",
+      "server": "http://192.168.1.22:5244"
+    },
+    {
       "name": "範本",
       "server": "https://one.fongmi.com",
       "search": true,
