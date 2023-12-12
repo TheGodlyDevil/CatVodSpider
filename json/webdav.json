@@ -1,12 +1,6 @@
 {
   "drives": [
-     {
-      "name": "自建",
-      "server": "http://192.168.10.15:5244/dav",
-      "user": "admin",
-      "pass": "970411"
-    },
-    {
+{
       "name": "七米藍",
       "server": "https://al.chirmyram.com/dav",
       "user": "alist",
