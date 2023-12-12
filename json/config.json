@@ -2,7 +2,16 @@
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/TheGodlyDevil/CatVodSpider/main/jar/custom_spider.jar;md5;9060b67dfec8782aca6e79ba17c0979b",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-   {
+  {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/TheGodlyDevil/CatVodSpider/main/json/webdav.json"
+    },
+    {
       "key": "AList",
       "name": "AList",
       "type": 3,
@@ -236,15 +245,7 @@
       "searchable": 0,
       "changeable": 0
     },
-    {
-      "key": "WebDAV",
-      "name": "WebDAV",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
-    },
+    
     {
       "key": "七夜",
       "name": "七夜",
